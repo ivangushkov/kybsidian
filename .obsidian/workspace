@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b0be36c14ae04cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1757fab41a9013f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MultiVarsidian/least squares.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "385acb8d209547c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bb4af0256ac343f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209b3f5a82641869",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6199b5146b2423bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291
+  },
+  "right": {
+    "id": "26465dc29b5a7e1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0c170e9a7a206f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f8b35690f9c11b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MultiVarsidian/least squares.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1757fab41a9013f5",
+  "lastOpenFiles": [
+    "MultiVarsidian/least squares.md",
+    "MultiVarsidian/likelihood functions.md",
+    "performance indices.md",
+    "maximum likelihood estimation.md",
+    "weighted least squares.md",
+    "linear least squares.md",
+    "least squares.md",
+    "splitting of datasets.md",
+    "maximum a posteriori estimation.md",
+    "PCA.md"
+  ]
+}
