@@ -1,0 +1,1 @@
+Any system that relies on time differences will be limited by the accuracy of the clocks

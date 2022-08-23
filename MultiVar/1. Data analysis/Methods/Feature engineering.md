@@ -1,0 +1,1 @@
+We can deal with nonlinearities by defining new variables that the model is linear in

@@ -1,0 +1,1 @@
+The test that minimizes the average of the probability errors 
